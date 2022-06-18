@@ -1,0 +1,6 @@
+Use requests App\Http\Requests for validation ... see Laravel-From-Scratch for how to use them.
+
+
+Error checking on entry screen
+
+

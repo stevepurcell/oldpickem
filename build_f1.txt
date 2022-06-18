@@ -1,0 +1,14 @@
+composer install
+
+cp .env.example to .env
+
+add database specifications
+
+npm install
+
+npm run dev
+
+php artisan key:generate
+
+Make sure to start apache and mysql in Xampp
+
